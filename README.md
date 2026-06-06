@@ -17,7 +17,8 @@
 ![Jenkins](https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ## Status:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HoeumSenghun&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoeumSenghun&show_icons=true&theme=tokyonight)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=steav-hun&label=PROFILE+VIEWS&color=0e75b6&style=flat)
